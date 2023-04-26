@@ -7,21 +7,37 @@ Open-source, open-ended, hyper-forked poetic conversation
 
 ## How to teach what you really want to learn?
 ```Monica Hoff```
-### 1. Teach beyond the possible
-### 2. Accept that the whole process can be a collective learning experience by bringing people together right from the beginning.
-### 3. Learning has its own time.
-### 4. Accept your ignorance.
-### 5. Appreciate what you know.
-### 6. Questioning if the subject is of common interest.
-### 7. Go beyond correct answers, look for responsible answers.
+### Teach beyond the possible
+### Accept that the whole process can be a collective learning experience by bringing people together right from the beginning.
+### Learning has its own time.
+### Accept your ignorance.
+### Appreciate what you know.
+### Questioning if the subject is of common interest.
+### Go beyond correct answers, look for responsible answers.
+### Be open to discover...
 
 ## Whose side are you on when you choose to teach and learn?
 
-### 1. Lose the School
-### 2. Forget the outcomes
-### 3. Education can occure anywhere.
-### 4. Within the learning context, question your own reality and provoke others to do the same
-### 5. 
+### Lose the School.
+### Lose the -isms.
+### Forget the outcomes.
+### Education can occur anywhere.
+### Within the learning context, question your own reality and provoke others to do the same.
+###  
 
-## 
+## How can we create and repurpose technologies that promote critical consciousness?
+
+## What do lose when you create a pedagogy?
+
+## What do lose when you create a model?
+
+## What is the difference between mastering something, and controlling it?
+
+## How to not be controlled by something you seek to master?
+
+## What do you lose when you learn to control?
+
+
+
+
 
