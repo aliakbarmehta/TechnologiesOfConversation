@@ -7,11 +7,11 @@ Open-source, open-ended, hyper-forked poetic conversation
 
 ## How to teach what you really want to learn?
   ```Monica Hoff```
-  ### Teach and learn beyond the possible
-  ### Accept that the whole process can be a collective learning experience by bringing people together right from the beginning.
-  ### Learning has its own time.
-  ### Accept your ignorance and cultivate unlearning.
-  ### Appreciate what you know.
+  Teach and learn beyond the possible
+  Accept that the whole process can be a collective learning experience by bringing people together right from the beginning.
+  Learning has its own time.
+  Accept your ignorance and cultivate unlearning.
+  Appreciate what you know.
   ### Be comfortable with not knowing.
   ### Question if the subject is of common interest.
   ### Be open to discovery.
