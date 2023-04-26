@@ -9,4 +9,6 @@ Open-source, open-ended, hyper-forked poetic conversation
 ```Monica Hoff```
 
 ### 1. Teach beyond the possible
+### 2. Accept that the whole process can be a collective learning experience by bringing people together right from the beginning.
+
 
